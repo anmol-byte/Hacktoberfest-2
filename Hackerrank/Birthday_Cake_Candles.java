@@ -1,3 +1,5 @@
+// This is a code to count number of Birthday Cake Candles 
+// I'm new to coding as well as open source
 public class Birthday_Cake_Candles {
   static int birthdayCakeCandles(int[] ar) {
     if(ar!=null && ar.length>0) {
